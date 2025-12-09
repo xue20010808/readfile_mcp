@@ -1,5 +1,7 @@
 # Local Filesystem MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@xue20010808/r3adfile_mcp)](https://smithery.ai/server/@xue20010808/r3adfile_mcp)
+
 A Model Context Protocol (MCP) server for exploring local filesystems with glob and grep tools.
 
 Built with [Smithery SDK](https://smithery.ai/docs)
@@ -66,4 +68,3 @@ This server uses `target: local` in `smithery.yaml`, which means it's designed t
 
 - [Smithery Docs](https://smithery.ai/docs)
 - [MCP Protocol](https://modelcontextprotocol.io)
-
