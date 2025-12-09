@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",          // 关键：输出 ESM
+    "target": "ES2022",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  }
+}
